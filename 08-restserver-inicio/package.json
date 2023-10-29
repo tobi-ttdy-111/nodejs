@@ -1,0 +1,17 @@
+{
+  "name": "08-restserver-inicio",
+  "version": "1.0.0",
+  "description": "restserver - inicio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "tobi_ttdy_111",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  }
+}
